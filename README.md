@@ -33,3 +33,12 @@ VITE_API_KEY=your_newsapi_key_here
 # Start the development server:
 npm run dev
 This will start the Vite development server and open the app in your default web browser at http://localhost:3000.
+
+# Sample images
+
+![image](https://github.com/salmanrancho/NewsApp/assets/114430107/6be8a747-911a-4b17-b8b6-eb6d433d254a)
+
+![image](https://github.com/salmanrancho/NewsApp/assets/114430107/1f3fbd71-3933-4fa3-be42-dcf1e49722fb)
+
+
+
